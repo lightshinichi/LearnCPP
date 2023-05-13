@@ -1,6 +1,6 @@
 #include <iostream>
 
-int man(){
+int main(){
     std::cout<<"Hello World!\n";//statement in cpp
     return 0;
 }

@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-int mai(){
+int main(){
     string color;
     cout<<"Enter you favorite color ";
     getline(cin,color);
